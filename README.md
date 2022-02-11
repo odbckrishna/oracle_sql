@@ -1,6 +1,6 @@
-# Oracle SQL 
+# Oracle SQL Learning 
 
-# this links might change based on the oracle releases.
+# using  below steps download the oracle on your VM
 
 Database application development VM : https://www.oracle.com/database/technologies/databaseappdev-vm.html
 
